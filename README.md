@@ -1,6 +1,5 @@
-quiter
-======
-Licence: MIT
+# quiter
 
-quiter is a DOS software allowing to quit out of a specific program.
+**quiter** is a DOS software allowing to quit out of a specific program.
 
+Licence: **MIT**
